@@ -1,7 +1,6 @@
 # Cross-Platform SOC Engineering & Detection Lab
 
 ##  Project Overview
-This project details the architecture, deployment, and optimization of an enterprise-grade Security Operations Center (SOC) home lab environment running within a completely isolated host-only network topology (`192.168.30.0/24`). 
 
 The lab successfully integrates cross-platform telemetry ingestion (Windows Security Logs via Microsoft Sysmon & Linux `auth.log`) into a centralized Splunk SIEM instance. It demonstrates real-world threat simulation, network diagnostics, and detection engineering optimizations to resolve unparsed log pitfalls.
 
